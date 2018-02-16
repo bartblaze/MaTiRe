@@ -1,6 +1,6 @@
 # MaTiRe
 
-This repository contains the LAB material used in the workshop on Malware Analysis, Threat Intelligence and Reverse Engineering: *MaTiRe*.
+This repository contains the LAB material used in the workshop on Malware Analysis, Threat Intelligence and Reverse Engineering. I'm naming the repository *MaTiRe* mostly due to current lack of inspiration.
 
 You will need access to the slides if you wish to follow along. Those can be found on SlideShare below:
 
