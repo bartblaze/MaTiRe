@@ -21,3 +21,8 @@ The LABS I created myself, have been compiled on a VM as well, and can therefore
 ### Help!
 
 If you are having issues, questions or concerns with any of the LABS or accompanying material, just reach out.
+
+
+### License
+
+Note that while the license for the LAB material is MIT, the license for the slides is [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/).
