@@ -1,3 +1,5 @@
+
+
 # MaTiRe
 
 This repository contains the LAB material used in the workshop on Malware Analysis, Threat Intelligence and Reverse Engineering. I'm naming the repository *MaTiRe* mostly due to current lack of inspiration.
@@ -13,7 +15,7 @@ If you are interested how this workshop came to be, check out the accompanying b
 
 ## About the LAB material
 
-Some of the LABS have been created by me, but some contain actual malware. Always execute the LABS in a Virtual Machine (VM). I cannot be held reliable for any damages caused by the material in this repository.
+Some of the LABS have been created by me, but some contain actual malware. Always execute the LABS in a Virtual Machine (VM). I cannot be held liable for any damages caused by the material in this repository.
 
 The LABS I created myself, have been compiled on a VM as well, and can therefore contain certain clues, compression or obfuscation. Up to you to find what is relevant and in correspondence with the LAB exercises from the workshop!
 
